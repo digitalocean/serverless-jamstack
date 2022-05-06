@@ -1,0 +1,90 @@
+.navbar-brand {
+    padding-left: 10px;
+}
+
+#product-table {
+    background-color: bisque;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: aqua;
+    border-style: dotted;
+}
+
+table td {
+    padding: 0.5rem;
+    border: 5px solid orange;
+}
+
+.product-image {
+    width: 100px;
+}
+
+.product-desc {
+    text-align: left;
+}
+
+body {
+    background-image: url(/assets/coffee-bg.jpg);
+}
+
+#email-form {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.email-field {
+    margin-left: 20px;
+}
+
+button {
+    width: 100px;
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    border: none;    
+}
+
+nav {
+    background-color: brown;
+}
+
+.navbar-brand, .nav-link {
+    color: bisque !important;
+}
+
+#order-quantity {
+    position: relative;
+    left: 41px;
+    top: 4px;
+}
+
+#modal-table {
+    margin: 20px;
+}
+
+#btnShow {
+    position: absolute;
+    left:80vw;
+    top: 0px;
+    background-color:transparent;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    outline: none;
+}
+
+#cart {
+    width: 50px;
+    position: relative;
+    left: -17px;
+
+}
+
+#order-quantity {
+    position: relative;
+    left: 9px;
+    top: -33px;
+}
