@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 This repo contains sample code for a serverless Jamstack tutorial that teaches users how to intergrate serverless functions into their Jamstack site. The tutorial will be published soon at docs.digitalocean.com.
 
 Once you complete the tutorial, the sample website contains:
